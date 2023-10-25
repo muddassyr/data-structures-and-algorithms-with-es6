@@ -2,6 +2,7 @@
   "name": "data-structures-and-algorithms-with-es6",
   "version": "1.0.0",
   "description": "Data Structures and Algorithims with ES6",
+  "homepage": "https://muddassyr.github.io/data-structure-and-algorithms-with-ES6",
   "main": "index.js",
   "scripts": {
     "test": "qunit -t test.js",
@@ -25,8 +26,8 @@
   "bugs": {
     "url": "https://github.com/muddassyr/data-structure-and-algorithms-with-ES6/issues"
   },
-  "homepage": "https://github.com/muddassyr/data-structure-and-algorithms-with-ES6#readme",
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "qunit": "^0.9.1"
   }
 }
